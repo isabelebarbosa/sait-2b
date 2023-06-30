@@ -38,3 +38,7 @@ h3{
     font-size: 50px;
     color:
 }
+.img4{
+    width: 50%;
+    display: flex;
+}
